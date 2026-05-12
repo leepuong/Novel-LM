@@ -6,7 +6,6 @@
   "image-border-style",
   "image-converter",
   "obsidian-style-settings",
-  "obsidian-excalidraw-plugin",
   "fast-text-color",
   "media-slider",
   "obsidian-completr",
@@ -18,5 +17,6 @@
   "obsidian-mindmap-nextgen",
   "translate",
   "obsidian-shellcommands",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin"
 ]

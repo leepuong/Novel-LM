@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "fa53b1eb37c41bd3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Base.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Base"
+            }
+          },
+          {
             "id": "3948af16188970c0",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "tại sao lại biết cách hoạt động của cơ thể"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "novel/Personal narrative/Time watcher.md",
+                "file": "Excalidraw/Base.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Time watcher"
+              "title": "Outline of Base"
             }
           },
           {
@@ -237,11 +250,14 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "2033c827cdc8b825",
+  "active": "071145cceeb8eda7",
   "lastOpenFiles": [
+    "novel/Personal narrative/Time watcher.md",
+    "Excalidraw/Base.md",
+    "Excalidraw",
+    "Untitled mindmap.md",
     "novel/Character profile/Time watcher.md",
     "README.md",
-    "novel/Personal narrative/Time watcher.md",
     "tại sao lại biết cách hoạt động của cơ thể.md",
     "novel/Personal narrative",
     "Template/Template Gemini.md",
@@ -264,7 +280,6 @@
     "Fonts/SpaceGrotesk-Medium.ttf",
     "Fonts/SpaceGrotesk-Light.ttf",
     "Fonts/SpaceGrotesk-Bold.ttf",
-    "Fonts",
     "Tool/Code Tool.md",
     "Tool/Color Tool.md",
     "Tool/Model3D Tool.md",
@@ -277,8 +292,6 @@
     "Laptop/Setting up laptop.md",
     "Laptop/BackupLaptop.md",
     "img/temp/01092025.png",
-    "img/Formation of knowledge/Formation of knowledge.md",
-    "Game/TFT.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "img/temp/Pasted Image 20260403214417_310.png",
