@@ -25,12 +25,14 @@
             "id": "fa53b1eb37c41bd3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Base.md"
+                "file": "novel/Personal narrative/Time watcher.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Base"
+              "icon": "lucide-file",
+              "title": "Time watcher"
             }
           },
           {
@@ -188,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Base.md",
+                "file": "novel/Personal narrative/Time watcher.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Base"
+              "title": "Outline of Time watcher"
             }
           },
           {
@@ -250,15 +252,15 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "071145cceeb8eda7",
+  "active": "fa53b1eb37c41bd3",
   "lastOpenFiles": [
+    "tại sao lại biết cách hoạt động của cơ thể.md",
     "novel/Personal narrative/Time watcher.md",
     "Excalidraw/Base.md",
     "Excalidraw",
     "Untitled mindmap.md",
     "novel/Character profile/Time watcher.md",
     "README.md",
-    "tại sao lại biết cách hoạt động của cơ thể.md",
     "novel/Personal narrative",
     "Template/Template Gemini.md",
     "Template/Template Claude.md",
