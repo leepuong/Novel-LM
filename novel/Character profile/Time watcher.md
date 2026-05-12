@@ -13,7 +13,7 @@ location: "[[Tên Vùng Đất/Thành Phố]]"
 faction: "[[Con  mắt thời không/ Eye of space-time]]"
 appearance: "Null"
 ---
-w
+
 # 👤 [Tên Nhân Vật]
 
 ## 📝 Tóm lược bản thân

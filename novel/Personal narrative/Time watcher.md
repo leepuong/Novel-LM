@@ -12,3 +12,5 @@ Chúng ta thuộc về 1 đơn vị Kẻ quan sát thời không 657, không ph�
 tại sao lại phải quan sát.
 
 ngươi biết cái thời không mà có rất nhiều siêu anh hùng đó không, biết sao nó rác nát thế không, do thời không bị đâm vào nhau đấy, do cứ có mấy đưa quay về quá khứ làm thực tại rẽ nhánh, rồi mấy đưa như Khang, bác sĩ Lạ, hay cái tổ chức gì đấy nữa, xữa đi sửa lại những cũng không nổi. Đấy chỉ có mỗi thời không đấy là còn tiếp diễn thôi, bị cô lập rồi thì cứ để cho chúng nó muốn làm gì thì làm.
+
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "novel/Character profile/Time watcher.md",
+                "file": "novel/Personal narrative/Time watcher.md",
                 "mode": "source",
                 "source": false
               },
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "novel/Character profile/Time watcher.md",
+                "file": "novel/Personal narrative/Time watcher.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -237,10 +237,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "0ee2994160e97c60",
+  "active": "2033c827cdc8b825",
   "lastOpenFiles": [
-    "README.md",
     "novel/Character profile/Time watcher.md",
+    "README.md",
     "novel/Personal narrative/Time watcher.md",
     "tại sao lại biết cách hoạt động của cơ thể.md",
     "novel/Personal narrative",
