@@ -9,7 +9,7 @@ Character: Time watcher
 
 > Chúng ta thuộc về 1 đơn vị Kẻ quan sát thời không 657, không phải là ít đâu mà là có bao nhiêu kẻ quan sát thì sẽ được cử đi quan sát 1 thời không mới, khi ta gia nhập thì ta buộc phải chọn mà vì tất cả đề đã rồi, nghĩa là chẳng có cái gì gọi lại tương lai quá khứ cả.
 
-> tại sao lại phải quan sát.
+> tại sao lại phải quan sát. vì cần 
 
 > ngươi biết cái thời không mà có rất nhiều siêu anh hùng đó không, biết sao nó rác nát thế không, do thời không bị đâm vào nhau đấy, do cứ có mấy đưa quay về quá khứ làm thực tại rẽ nhánh, rồi mấy đưa như Khang, bác sĩ Lạ, hay cái tổ chức gì đấy nữa, xữa đi sửa lại những cũng không nổi. Đấy chỉ có mỗi thời không đấy là còn tiếp diễn thôi, bị cô lập rồi thì cứ để cho chúng nó muốn làm gì thì làm.
 
@@ -24,3 +24,5 @@ Character: Time watcher
 > Một thế giới đã hoàn thành rồi nhưng có những kẻ cố tình hay vô tình can thiệp vào thời gian, khiến cho thực tại đó rẽ nhánh. 
 
 > op, ta có thể nói rằng 1 thế giới đã hoàn thành hay không nhỉ, chắc là không nhỉ, trong mắt 1 time watcher thì cứ nhìn vào 1 điểm trong time line thì sẽ có thể tiếp tục, bất kể điểm đó là trong tương lai hay quá khứ, tưởng tượng kiểu ngươi tua video vậy, nhưng không có giới hạn tượng trưng cho bắt đầu và kết thúc vậy. 
+
+
