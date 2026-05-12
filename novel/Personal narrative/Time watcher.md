@@ -14,3 +14,8 @@ tại sao lại phải quan sát.
 ngươi biết cái thời không mà có rất nhiều siêu anh hùng đó không, biết sao nó rác nát thế không, do thời không bị đâm vào nhau đấy, do cứ có mấy đưa quay về quá khứ làm thực tại rẽ nhánh, rồi mấy đưa như Khang, bác sĩ Lạ, hay cái tổ chức gì đấy nữa, xữa đi sửa lại những cũng không nổi. Đấy chỉ có mỗi thời không đấy là còn tiếp diễn thôi, bị cô lập rồi thì cứ để cho chúng nó muốn làm gì thì làm.
 
 
+Tại sao lại có hành động như vậy: Chuyện kể rằng chủ nhân của cơ thể này trương đây đã làm hành động đó trong 40 năm để tìm 1 khoảng khắc khác biệt so trí nhớ của ông nhằm tìm ra kẻ xuyên không.
+
+mỗi một Time watcher sẽ nhìn chằm chằm vào 1 thời không. 
+
+fix bối cảnh: Time watcher là 1 kẻ quan sát dự bị, sử dụng 1000 năm để tăng sử cộng hưởng với cơ thể thời không, tránh cho cơ thể không ý chí không chịu được khi tiếp nhận và chia sẽ ký ức về toàn bộ thời không đã biết.
