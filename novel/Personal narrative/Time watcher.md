@@ -26,3 +26,8 @@ Character: Time watcher
 > op, ta có thể nói rằng 1 thế giới đã hoàn thành hay không nhỉ, chắc là không nhỉ, trong mắt 1 time watcher thì cứ nhìn vào 1 điểm trong time line thì sẽ có thể tiếp tục, bất kể điểm đó là trong tương lai hay quá khứ, tưởng tượng kiểu ngươi tua video vậy, nhưng không có giới hạn tượng trưng cho bắt đầu và kết thúc vậy. 
 
 
+
+
+
+> Tại sao lại Time watcher lại quan sát các xuyên không giả?
+> 
