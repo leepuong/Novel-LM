@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "17ef9563b59e7cf6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Novel 2/Chap1/story board.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "story board"
+            }
+          },
+          {
             "id": "3948af16188970c0",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,10 +264,14 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "fa53b1eb37c41bd3",
+  "active": "17ef9563b59e7cf6",
   "lastOpenFiles": [
-    "tại sao lại biết cách hoạt động của cơ thể.md",
     "novel/Personal narrative/Time watcher.md",
+    "Novel 2/Chap1/story board.md",
+    "Novel 2/Chap1",
+    "Novel 2",
+    "novel/Untitled",
+    "tại sao lại biết cách hoạt động của cơ thể.md",
     "Excalidraw/Base.md",
     "Excalidraw",
     "Untitled mindmap.md",
@@ -279,9 +295,6 @@
     "img/temp/Pasted Image 20260316213035_534.png",
     "Fonts/SpaceGrotesk-SemiBold.ttf",
     "Fonts/SpaceGrotesk-Regular.ttf",
-    "Fonts/SpaceGrotesk-Medium.ttf",
-    "Fonts/SpaceGrotesk-Light.ttf",
-    "Fonts/SpaceGrotesk-Bold.ttf",
     "Tool/Code Tool.md",
     "Tool/Color Tool.md",
     "Tool/Model3D Tool.md",
@@ -292,7 +305,6 @@
     "Learning/AfterEffectGroupLearning/Learn AfterEffect.md",
     "LastRouns/roadmap.md",
     "Laptop/Setting up laptop.md",
-    "Laptop/BackupLaptop.md",
     "img/temp/01092025.png",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
